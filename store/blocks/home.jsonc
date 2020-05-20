@@ -100,11 +100,9 @@
   
   "rich-text#mobile": {
     "props": {
-      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
+      "text": "# <h3> Your Coffee, Your Way </h3> \n ### <h4> New Coffee Makers Collection </h4>",
       "textPosition": "CENTER",
-      "textAlignment": "CENTER",
-      "headingLevel1": "h3",
-      "headingLevel2": "h4"
+      "textAlignment": "CENTER"
     }
   },
   "image#desktop": {
