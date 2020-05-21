@@ -89,7 +89,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "visibility": "always",
-      "initialSelection": "complete",
+      // "initialSelection": "complete",
       "showVariationsErrorMessage": true,
       "showVariationsLabels": true
     }
