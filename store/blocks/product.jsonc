@@ -70,7 +70,7 @@
       "displayThumbnailsArrows": true
     }
   },
-
+  
   "product-name": {
     "props": {
       "showSKU": true,
@@ -88,8 +88,10 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false,
-      
-      "showVariationsErrorMessage": true
+      "visibility": "always",
+      "initialSelection": "complete",
+      "showVariationsErrorMessage": true,
+      "showVariationsLabels": true
     }
   },
   
