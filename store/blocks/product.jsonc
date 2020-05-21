@@ -70,6 +70,7 @@
       "displayThumbnailsArrows": true
     }
   },
+  
   "product-name": {
     "props": {
       "showSKU": true,
