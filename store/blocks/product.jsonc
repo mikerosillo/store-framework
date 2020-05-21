@@ -87,7 +87,7 @@
   
   "sku-selector": {
     "props": {
-      "visibility": "always",
+      "initialSelection": "complete",
       "showVariationsErrorMessage": true,
       "showVariationsLabels": true
     }
